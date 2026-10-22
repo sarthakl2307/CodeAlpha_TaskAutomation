@@ -1,0 +1,7 @@
+
+__pycache__/
+*.pyc
+Source_Images/*
+!Source_Images/.gitkeep
+Sorted_Images/*
+!Sorted_Images/.gitkeep
